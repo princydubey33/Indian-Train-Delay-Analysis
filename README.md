@@ -27,7 +27,7 @@ The project follows an end-to-end Data Analytics workflow using Excel, Python, S
 
 ## 📈 Power BI Dashboard
 
-The Power BI dashboard provides an interactive overview of train delays, punctuality, delay categories, and train performance.
+![Indian Train Delay Analysis Dashboard](train-delay-dashboard.png)
 
 ### Key KPIs
 
