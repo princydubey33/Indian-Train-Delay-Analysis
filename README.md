@@ -1,4 +1,4 @@
-# Indian Train Delay Analysis 🚆
+## Indian Train Delay Analysis 🚆
 
 ## 📌 Project Overview
 
@@ -46,6 +46,28 @@ The project follows an end-to-end Data Analytics workflow using Excel, Python, S
 ## 🔍 Dataset Note
 
 The dataset contains train and station-level delay information collected on a specific date. Therefore, the project focuses on train-wise and station-wise performance rather than historical monthly or seasonal trends.
+
+## 📊 Key Insights
+
+- The analysis covers **90 trains** across **480 stations**.
+- The overall **average train delay is 40.70 minutes**, indicating a significant punctuality challenge.
+- The average **right-time performance is approximately 50%**, meaning around half of the observed train performance is right-time.
+- The most delayed train in the analysis has an average delay of approximately **348 minutes**.
+- The top station by average delay records approximately **429.5 minutes**, indicating a major delay hotspot.
+- **High Delay** is the largest delay category, with an average delay of approximately **118 minutes**, compared with **31 minutes for Moderate Delay** and **9 minutes for Slight Delay**.
+- The dashboard highlights considerable variation in delay performance across different trains and stations.
+- Train performance scores vary considerably, helping identify trains that require attention and those performing relatively better.
+
+## 💡 Business Recommendations
+
+- Investigate the major **train and station delay hotspots** to identify the causes of recurring delays.
+- Prioritize operational improvements at stations with the **highest average delays**.
+- Focus on trains with consistently high delays to improve overall punctuality.
+- Analyze the reasons behind the gap between right-time and delayed services.
+- Use train performance scores to identify underperforming services and prioritize corrective actions.
+
+
+
 
 ## 👩‍💻 Author
 
